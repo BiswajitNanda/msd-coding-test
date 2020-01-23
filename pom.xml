@@ -148,7 +148,7 @@
                     <includes>
                         <include>**/*Test.java</include>
                         <include>**/Test*.java</include>
-                        <include>**/*TestSuiteRunner.java</include>
+                        <include>**/*TestSuite.java</include>
                         <include>**/When*.java</include>
                     </includes>
                     <systemPropertyVariables>
